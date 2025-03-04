@@ -1,3 +1,4 @@
+[![Test Multiple Python Versions](https://github.com/theinkyawmoe/python-for-devops-feb-2025/actions/workflows/main.yml/badge.svg)](https://github.com/theinkyawmoe/python-for-devops-feb-2025/actions/workflows/main.yml)
 ## python-for-devops-feb-2025
 from zero repository for doing python devops work
 ![py readme](https://github.com/user-attachments/assets/bccb6d3a-d1b6-4294-b057-e0e439e86fcb)
